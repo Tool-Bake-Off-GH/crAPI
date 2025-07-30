@@ -1,0 +1,5 @@
+.github/
+.gitlab-ci.yml
+bitbucket-pipelines.yml
+azure-pipelines.yml
+stackhawk.yml
